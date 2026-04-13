@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 168 40" fill="none">
+  <!-- Tern bird mark -->
+  <path d="M2 24 C7 13 17 16 20 21 C23 16 33 8 37 5 C35 18 25 23 20 21 C15 29 7 34 2 24Z" fill="#1B3A5C"/>
+  <path d="M20 21 C18 26 16 30 18 35 L23 30 Z" fill="#0D9488"/>
+  <!-- Wordmark -->
+  <text x="50" y="28" font-family="system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="22" font-weight="700" letter-spacing="-0.5" fill="#1B3A5C">Tern</text>
+</svg>
